@@ -11,5 +11,14 @@ A technical solution for automating Portuguese building code (RGEU) verification
 ## Why this matters for Product Management
 This project demonstrates the ability to solve a localized B2B pain point by translating legal constraints into a scalable software logic. It highlights a focus on **User Experience for Architects** and **Process Optimization**.
 
+### 🐍 Running the Python Logic Standalone (No Revit Required)
+If you are on macOS or do not have Revit installed, you can verify the compliance logic using the included test suite:
+
+1. Open your Terminal.
+2. Navigate to the project folder.
+3. Run the following command:
+   ```bash
+   python3 src/rgeu_logic_test.py
+   
 ## Contact
 [Okikiola Layi-Balogun] - [www.linkedin.com/in/okikiola-layi-balogun]
