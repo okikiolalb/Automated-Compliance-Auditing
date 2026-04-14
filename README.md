@@ -3,9 +3,9 @@ https://github.com/user-attachments/assets/f22bba72-8070-4796-8069-6e7a0f7a0932
 
 
 # Automated-Compliance-Auditing
-An AI-powered BIM automation tool for Portuguese building code (RGEU) compliance
+An AI-powered BIM automation tool for Portuguese building code (RGEU) compliance, taking into account the proposed transiton to the "Código da Construção".
 ## Executive Summary
-A technical solution for automating Portuguese building code (RGEU) verification within BIM environments. 
+A technical solution for automating Portuguese building code {(RGEU) / "Código da Construção"} verification within BIM environments. 
 
 ## Key Features
 * **Automated Audit:** Validates Art. 65 (Heights) and Art. 67 (Areas).
