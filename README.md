@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/f22bba72-8070-4796-8069-6e7a0f7a0932
+
+
 # Automated-Compliance-Auditing
 An AI-powered BIM automation tool for Portuguese building code (RGEU) compliance
 ## Executive Summary
