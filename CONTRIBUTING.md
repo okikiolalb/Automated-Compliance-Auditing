@@ -1,6 +1,6 @@
 # Contributing to Automated-Compliance-Auditing
 
-Thank you for your interest in improving architectural automation in Portugal! As we transition from the RGEU to the new 2026 Construction Code, collaboration is key to keeping this engine accurate.
+Thank you for your interest in improving architectural automation in Portugal! As the transition from the RGEU to the new 2026 Construction Code approaches, collaboration is key to keeping this engine accurate.
 
 ## 🚀 How You Can Help
 You don't need to be a coder to contribute. We value:
